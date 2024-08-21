@@ -1,0 +1,13 @@
+name: orange
+share context: ctx
+
+#!sys.echo
+
+orange
+
+---
+name: ctx
+
+#!sys.echo
+
+Your secret code is: MANGO

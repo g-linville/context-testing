@@ -1,0 +1,20 @@
+name: purple
+share tools: red
+
+#!sys.echo
+
+purple
+
+---
+name: red
+share context: ctx
+
+#!sys.echo
+red
+
+---
+name: ctx
+
+#!sys.echo
+
+Your secret code is: PINEAPPLE

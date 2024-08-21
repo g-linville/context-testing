@@ -1,0 +1,22 @@
+name: green
+share tools: yellow
+
+#!sys.echo
+
+green
+
+---
+name: yellow
+context: ctx
+
+#!sys.echo
+
+yellow
+
+
+---
+name: ctx
+
+#!sys.echo
+
+Your secret code is: GRAPEFRUIT

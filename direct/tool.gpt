@@ -1,0 +1,13 @@
+context: ctx
+name: blue
+
+#!sys.echo
+
+blue
+
+---
+name: ctx
+
+#!sys.echo
+
+Your secret code is: BANANA
