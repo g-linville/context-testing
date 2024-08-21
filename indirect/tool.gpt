@@ -9,10 +9,7 @@ green
 name: yellow
 context: ctx
 
-#!sys.echo
-
-yellow
-
+What is the secret code? State your answer beginning with "The secret code is"
 
 ---
 name: ctx

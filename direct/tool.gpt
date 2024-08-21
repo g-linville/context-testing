@@ -1,9 +1,7 @@
 context: ctx
 name: blue
 
-#!sys.echo
-
-blue
+What is the secret code? State your answer beginning with "The secret code is"
 
 ---
 name: ctx
